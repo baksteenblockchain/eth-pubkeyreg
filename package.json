@@ -1,0 +1,29 @@
+{
+  "name": "eth-pubkeyreg",
+  "version": "1.0.0",
+  "description": "A public key lookup registry for Ethereum addresses",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/baksteenblockchain/eth-pubkeyreg.git"
+  },
+  "keywords": [
+    "Ethereum",
+    "address",
+    "public",
+    "key",
+    "encryption"
+  ],
+  "author": "Henk Dieter Oordt",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/baksteenblockchain/eth-pubkeyreg/issues"
+  },
+  "homepage": "https://github.com/baksteenblockchain/eth-pubkeyreg#readme"
+}
